@@ -101,9 +101,9 @@ export const footerContent = {
 
   office: {
     title: "Office",
-    address: "Springfield Rd, Sale M33 7XS",
+    address: "Market street Garage , Market St, Uttoxeter ST14 8JA",
     email: "office@-nottingham.co.uk",
-    phone: "NA"
+    phone: "07730 253471"
   },
 
   bottomBar: {
